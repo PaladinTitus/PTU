@@ -267,14 +267,11 @@
   <action name="v_salvage_beam_spacing_abs">
    <rebind input="js2_slider2"/>
   </action>
-  <action name="v_salvage_cycle_modifiers_focused">
-   <rebind input="js1_button5"/>
-  </action>
   <action name="v_salvage_cycle_modifiers_left">
-   <rebind input="js2_button6"/>
+   <rebind input="js2_button12"/>
   </action>
   <action name="v_salvage_cycle_modifiers_right">
-   <rebind input="js2_button7"/>
+   <rebind input="js2_button13"/>
   </action>
   <action name="v_salvage_focus_all_heads">
    <rebind input="js2_button22"/>
@@ -292,7 +289,7 @@
    <rebind input="js2_button21"/>
   </action>
   <action name="v_salvage_toggle_beam_spacing_axis">
-   <rebind input="js1_button2"/>
+   <rebind input="js1_button5"/>
   </action>
   <action name="v_salvage_toggle_gimbal_mode">
    <rebind input="js2_button9"/>
@@ -413,3 +410,4 @@
   </action>
  </actionmap>
 </ActionMaps>
+
